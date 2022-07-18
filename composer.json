@@ -22,5 +22,9 @@
         "allow-plugins": {
             "pestphp/pest-plugin": true
         }
+    },
+    "require": {
+        "doctrine/dbal": "^3.3",
+        "beberlei/assert": "^3.2"
     }
 }
