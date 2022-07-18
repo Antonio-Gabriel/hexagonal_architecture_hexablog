@@ -12,7 +12,7 @@
          failOnWarning="true"
          verbose="true">
     <testsuites>
-        <testsuite name="default">
+        <testsuite name="blog.domain">
             <directory>tests</directory>
         </testsuite>
     </testsuites>
