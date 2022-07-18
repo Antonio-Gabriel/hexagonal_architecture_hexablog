@@ -1,2 +1,2 @@
 test:
-	vendor/bin/pest
+	vendor/bin/phpunit-watcher watch
