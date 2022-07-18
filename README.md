@@ -1,5 +1,7 @@
 # Hexagonal architecture
 
+Building **Hexablog app**
+
 The hexagonal architecture, or ports and adapters architecture, is an architectural pattern used in software design. It aims at creating loosely coupled application components that can be easily connected to their software environment by means of ports and adapters. 
 
 In this project, we will create a simple blog as the architecture use case.
