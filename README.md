@@ -17,6 +17,13 @@ Install dev requirements for generate the vendor app
 ```bash
 composer install
 ```
+
+for running the tests using makefile command
+
+```bash
+make test
+```
+
 <!-- After, generate the configurations of tests using pest
 
 ```bash
