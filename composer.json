@@ -1,0 +1,26 @@
+{
+    "name": "ag/hexablog",
+    "description": "hexagonal architecture, a simple blog using this concept",
+    "license": "MTI",
+    "autoload": {
+        "psr-4": {
+            "Hexablog\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Antonio Gabriel",
+            "email": "antoniocamposgabriel@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "pestphp/pest": "^1.21",
+        "spatie/phpunit-watcher": "^1.23",
+        "symfony/var-dumper": "^6.1"
+    },
+    "config": {
+        "allow-plugins": {
+            "pestphp/pest-plugin": true
+        }
+    }
+}
